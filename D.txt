@@ -1,1 +1,2 @@
 change D for commit amend
+change D for commit staged signed-off
